@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 
 
-- 👋 Hi, I’m Aman
+- 👋 I’m Aman
 - 👀 I’m a Software Engineer working with React Native and Node.
 - 📫 You can reach out to me on linkedin or via email at 
      - email - rathoreaman342@gmail.com
